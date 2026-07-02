@@ -9,7 +9,7 @@ Engineering student pursuing a BE in **Artificial Intelligence and Data Science*
 
 ## 🚀 Projects
 
-- **[AI-Driven Inventory Predicto](https://github.com/TejasY05/AI-Inventory-App)** — Forecasts stock requirements for small businesses using historical sales data to improve inventory planning and reduce shortages.
+- **[AI-Driven Inventory Predictor](https://github.com/TejasY05/AI-Inventory-App)** — Forecasts stock requirements for small businesses using historical sales data to improve inventory planning and reduce shortages.
 - **[Movie Recommendation System](https://github.com/TejasY05/movie_recommendation_system)** — Machine learning-based recommender using collaborative filtering to suggest movies based on user preferences.
 - **[Restaurant Management System](https://github.com/TejasY05/restaurant_management_system)** — Full-stack Django app with menu management, order tracking, billing, and admin controls.
 
